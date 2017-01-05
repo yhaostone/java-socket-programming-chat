@@ -1,0 +1,7 @@
+Peer 1, Fred <IP 192.168.1.1>
+Peer 2, Tom <IP 192.168.1.2>
+Peer 3, Stone <IP 10.1.51.186>
+Peer 4, James <IP 192.168.1.4>
+Peer 5, Carina <IP 192.168.1.5>
+Peer 6, GoogleMan <IP 192.168.1.6>
+Peer 7, CoolDeveloper <IP 192.168.1.7>
